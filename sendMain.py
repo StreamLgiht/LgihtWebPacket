@@ -25,10 +25,10 @@ def Hello():  # 开始文字
 
 
 def Menu():  # 菜单
-    print("(1)AttackWebSite(GetPacket)")  # get包请求(写好了)
+    print("(1)AttackWebSite(GetPacket)")  # get包请求
     print("(2)Normal Mode DDos")
 
-    print('                   ')  # 可是这是DDos,如果是端口扫描的话我有另一个项目
+    print('                   ')
     print("(99)exit")
 
 
